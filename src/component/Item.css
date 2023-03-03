@@ -1,0 +1,11 @@
+.block{
+    display:flex ;
+    font-size: large;
+    color: black;
+    justify-content: space-evenly;
+    border: 2px solid green;
+    border-radius: 15px;
+    gap: 10px;
+    margin-bottom: 5px;
+    background-color: #28c413;
+}
